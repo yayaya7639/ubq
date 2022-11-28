@@ -7,7 +7,7 @@ rental_price
 
 
 ### データを持ってくる
-データを置いておきたいディレクトリ（/opt/home/yamaoka/kaggle/rental_price/inputs）の中で以下のコマンドを実行
-- cp /fs02/export1/yamaoka/ubq_data/* .
+データを置いておきたいディレクトリ（/opt/home/username/kaggle/rental_price/inputs）の中で以下のコマンドを実行
+- cp /fs02/export1/username/ubq_data/* .
 
 ### 
